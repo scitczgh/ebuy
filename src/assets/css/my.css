@@ -1,0 +1,24 @@
+html,
+body,
+#scitc-app {
+  height: 100%;
+  width: 100%;
+  margin: 0;
+  padding: 0;
+}
+#scitc-app .box {
+  padding: 0 10px 60px 10px;
+  box-sizing: border-box;
+}
+#scitc-app .van-nav-bar {
+  background: #761686;
+}
+#scitc-app .van-nav-bar .van-nav-bar__title,
+#scitc-app .van-nav-bar .van-nav-bar__text,
+#scitc-app .van-nav-bar .van-icon {
+  color: #fff;
+}
+#scitc-app .contentbox {
+  padding: 15px;
+  box-sizing: border-box;
+}
